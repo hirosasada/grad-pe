@@ -1,5 +1,5 @@
 [home](https://hirosasada.github.io/) > political economy of east asia   
-# Fall Semester 2019
+## Fall Semester 2019
 - **For Currently registered students only.**  
 - **Download course materials (lecture notes and readings) below. Finish the readings before the lecture.**  
 - **The files are password-protected.**  
