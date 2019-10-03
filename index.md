@@ -11,7 +11,7 @@ __________________________________________________________
 ### Course Materials and schedule  
   
 **Week 01:** **<font color="Brown">No reading</font>**    
-**Week 02: [Reading], [Lecture note]**    
+**Week 02: [Reading], [Lecture note]((https://drive.google.com/open?id=1neyb1D6IANaaxw-pO52b5WEDGtk7Tw4u))**    
 **Week 03: [Reading], [Lecture note]**   
 **Week 04: [Reading], [Lecture note]**   
 **Week 05: [Reading], [Lecture note]**     
