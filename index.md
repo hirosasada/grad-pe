@@ -12,7 +12,7 @@ __________________________________________________________
   
 **Week 01:** **<font color="Brown">No reading</font>**    
 **Week 02: [Reading](https://drive.google.com/open?id=1neyb1D6IANaaxw-pO52b5WEDGtk7Tw4u), [Lecture note](https://drive.google.com/open?id=17JhKLGHVqTdDSQvBfQgzFi76sDQs-_L2)**    
-**Week 03: [Reading](https://drive.google.com/open?id=1Yz5rLmOBIthgbqry350WfQQnv831BOV8), [Lecture note]**   
+**Week 03: [Reading](https://drive.google.com/open?id=1Yz5rLmOBIthgbqry350WfQQnv831BOV8), [Lecture note](https://drive.google.com/open?id=1D6vJypy8C2m-xn-2Ev2xl1bxGEzDkuho)**   
 **Week 04: [Reading](https://drive.google.com/open?id=1HjHSdACZEkCXGbVBEOK8HCNIUitjjpb7), [Lecture note]**   
 **Week 05: [Reading], [Lecture note]**     
 **Week 06: [Reading], [Lecture note]**     
