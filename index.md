@@ -16,8 +16,8 @@ __________________________________________________________
 **Week 04: [Reading](https://drive.google.com/open?id=1HjHSdACZEkCXGbVBEOK8HCNIUitjjpb7), [Lecture note](https://drive.google.com/open?id=1z1ulQ4dFwshGg5LRdK9Al3VYf_-71M3l)**   
 **Week 05: [Reading](https://drive.google.com/open?id=1osRi17xDqCOIgldmComKqV4o3EKoWfZ8), [Lecture note](https://drive.google.com/open?id=1DlvTyTCjNrXqpd0AEwDN1Onxt6wUSWb6)**     
 **Week 06: [Reading](https://drive.google.com/open?id=10RtH7cMsiNg_cy4WVKShjKTC79mCWbSx), [Lecture note](https://drive.google.com/open?id=17Buy0wRi25wdA5APuWwS-8FFe3LQ_IJ9)**     
-**Week 07: [Reading](https://drive.google.com/open?id=1M5msNr7Jd71hakm9Q6gG8aqZM8ju1mR6), [Lecture note]**      
-**Week 08: [Reading], [Lecture note]**    
+**Week 07: [Reading](https://drive.google.com/open?id=1M5msNr7Jd71hakm9Q6gG8aqZM8ju1mR6)**      
+**Week 08: [Reading](https://drive.google.com/open?id=1jYc3-qBSD8HMgNxZ6QcfRY0iv-FZBK1Y), [Lecture note]**    
 **Week 09: [Reading 1](https://drive.google.com/open?id=1E4CByggrBlViWntx1HW8OMWn-7tkg1pW), [Reading 2](https://drive.google.com/open?id=1_wu9gR5hgeIOWGaBFyGLb02eEscYu6su) [Lecture note]**   
 **Week 10: [Reading](https://drive.google.com/open?id=15yTOJuyUXsVuOsdPUlwOGXSLPTpUvZkh), [Lecture note]**    
 **Week 11: [Reading], [Lecture note]**    
